@@ -55,7 +55,8 @@
                 <groupId>org.graalvm.buildtools</groupId>
                 <artifactId>native-maven-plugin</artifactId>
                 <configuration>
-                    <buildArgs>--trace-class-initialization=org.slf4j.LoggerFactory -H:+ReportExceptionStackTraces</buildArgs>
+                    <buildArgs>--trace-class-initialization=org.slf4j.LoggerFactory -H:+ReportExceptionStackTraces
+                    </buildArgs>
                 </configuration>
             </plugin>
             <plugin>
