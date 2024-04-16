@@ -1,5 +1,7 @@
 # Spring Boot gRPC Sample
 
+The original project off of which this was based [has since relocated](https://github.com/grpc-ecosystem/grpc-spring).
+
 This project is a copy one of the samples from the [gRPC Spring Boot Starter](https://github.com/yidongnan/grpc-spring-boot-starter/blob/master/examples/local-grpc-server/build.gradle). Build and run any way you like to run Spring Boot. E.g:
 
 ```
