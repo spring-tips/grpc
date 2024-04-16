@@ -21,7 +21,7 @@
         </dependency>
         <dependency>
             <groupId>net.devh</groupId>
-            <artifactId>grpc-server-spring-boot-starter</artifactId>
+            <artifactId>grpc-client-spring-boot-starter</artifactId>
             <version>3.1.0.RELEASE</version>
             <exclusions>
                 <exclusion>
@@ -30,11 +30,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
-  <!--      <dependency>
-            <groupId>io.grpc</groupId>
-            <artifactId>grpc-netty</artifactId>
-            <version>1.63.0</version>
-        </dependency>-->
+
         <dependency>
             <groupId>javax.annotation</groupId>
             <artifactId>javax.annotation-api</artifactId>
